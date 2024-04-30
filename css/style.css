@@ -1411,6 +1411,9 @@ a {
 }
 
 @media screen and (375px <=width <768px) {
+	body {
+		min-height: 1080px;
+	}
 	a {
 		color: inherit;
 		text-decoration: none;
@@ -1825,7 +1828,7 @@ a {
 		width: 300px;
 		height: 10%;
 		left: 50px;
-		top: 1200px;
+		top: 1300px;
 
 		font-family: 'Jockey One';
 		font-style: normal;
@@ -1847,7 +1850,7 @@ a {
 		width: 120px;
 		height: 4%;
 		left: 130px;
-		top: 1300px;
+		top: 1400px;
 
 		/* /Status Color / Warning */
 		font-family: 'Inter';
@@ -1890,7 +1893,7 @@ a {
 		width: 15%;
 		height: 6%;
 		right: 250px;
-		top: 1350px;
+		top: 1450px;
 	}
 
 	.previewIntro {
@@ -1898,7 +1901,7 @@ a {
 		width: 200px;
 		height: 5%;
 		right: 30px;
-		top: 1350px;
+		top: 1450px;
 		margin: 0;
 
 		font-family: 'Inter';
@@ -1919,7 +1922,7 @@ a {
 		width: 8%;
 		height: 5%;
 		left: 90px;
-		top: 1450px;
+		top: 1550px;
 	}
 
 	.totalamount {
@@ -1927,7 +1930,7 @@ a {
 		width: 50%;
 		height: 5%;
 		left: 40%;
-		top: 1450px;
+		top: 1550px;
 		margin: 0;
 
 		font-family: 'Jockey One';
